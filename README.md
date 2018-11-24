@@ -21,7 +21,7 @@ Time spent: 16 hours spent in total
     - Vulnerability types: Denial of service
     - Tested in version: 4.2
     - Fixed in version: ?
-  - [ ] GIF Walkthrough: <img src='week7.2.gif' />
+  - [ ] GIF Walkthrough: <img src='Week7.2.gif' />
   - [ ] Steps to recreate: Login as Admin and download a doser.py script and you can use that to attack the WP website.
   - [ ] Affected source code:
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
@@ -31,7 +31,7 @@ Time spent: 16 hours spent in total
     - Vulnerability types:xss
     - Tested in version:4.2
     - Fixed in version: 4.7.5
-  - [ ] GIF Walkthrough: <img src='week7.3.gif' />
+  - [ ] GIF Walkthrough: <img src='Week7.3.gif' />
   - [ ] Steps to recreate: When you login as admin add a XSS comment onload=alert(document.cookie)
   - [ ] Affected source code:
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
