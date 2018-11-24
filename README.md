@@ -21,7 +21,7 @@ Time spent: 16 hours spent in total
     - Vulnerability types: Denial of service
     - Tested in version: 4.2
     - Fixed in version: ?
-  - [ ] GIF Walkthrough: <img src='Week7.2.gif' />
+  - [ ] GIF Walkthrough: <img src='Week.7.2.gif' />
   - [ ] Steps to recreate: Login as Admin and download a doser.py script and you can use that to attack the WP website.
   - [ ] Affected source code:
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
